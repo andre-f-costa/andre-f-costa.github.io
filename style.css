@@ -1,7 +1,7 @@
 h2 {
-            color: rgb(0, 232, 15); font-style: Arial, sans-serif;
+            color: rgb(0, 232, 15); font-family: "Arial", Arial, sans-serif;
         }  
         
         body {
-            background-color: rgb(197, 200, 205); font-style: Arial, sans-serif;
+            background-color: rgb(197, 200, 205); font-family: "Arial", Arial, sans-serif;
         }
